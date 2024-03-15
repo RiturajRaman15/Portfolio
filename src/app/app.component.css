@@ -1,0 +1,14 @@
+.cont {
+  display: flex;
+  height: 100%;
+}
+
+app-nav {
+  color: white;
+  background-color: black;
+  width: 20%;
+}
+
+.content {
+  width: 80%;
+}
